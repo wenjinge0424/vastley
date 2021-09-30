@@ -1,0 +1,179 @@
+PODS:
+  - AAPullToRefresh (1.0.2)
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - "AFNetworking+ImageActivityIndicator (1.0.2)":
+    - AFNetworking (~> 2.0)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - GKActionSheetPicker (0.5.1)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (2.7.0):
+    - GoogleMaps (= 2.7.0)
+    - GooglePlaces (= 2.7.0)
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - GoogleSignIn (4.1.2):
+    - "GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)"
+    - "GoogleToolboxForMac/NSString+URLArguments (~> 2.1)"
+    - GTMOAuth2 (~> 1.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleToolboxForMac/DebugUtils (2.1.4):
+    - GoogleToolboxForMac/Defines (= 2.1.4)
+  - GoogleToolboxForMac/Defines (2.1.4)
+  - "GoogleToolboxForMac/NSDictionary+URLArguments (2.1.4)":
+    - GoogleToolboxForMac/DebugUtils (= 2.1.4)
+    - GoogleToolboxForMac/Defines (= 2.1.4)
+    - "GoogleToolboxForMac/NSString+URLArguments (= 2.1.4)"
+  - "GoogleToolboxForMac/NSString+URLArguments (2.1.4)"
+  - GTMOAuth2 (1.1.6):
+    - GTMSessionFetcher (~> 1.1)
+  - GTMSessionFetcher (1.1.15):
+    - GTMSessionFetcher/Full (= 1.1.15)
+  - GTMSessionFetcher/Core (1.1.15)
+  - GTMSessionFetcher/Full (1.1.15):
+    - GTMSessionFetcher/Core (= 1.1.15)
+  - IQDropDownTextField (1.1.1)
+  - IQKeyboardManager (6.0.4)
+  - LDProgressView (1.2.1)
+  - MBProgressHUD (1.1.0)
+  - MGSwipeTableCell (1.6.7)
+  - NJKWebViewProgress (0.2.3):
+    - NJKWebViewProgress/Core (= 0.2.3)
+    - NJKWebViewProgress/ProgressView (= 0.2.3)
+  - NJKWebViewProgress/Core (0.2.3)
+  - NJKWebViewProgress/ProgressView (0.2.3)
+  - "NSDate+Helpers (1.2.2)"
+  - NSDate-Escort (1.8.2)
+  - NSDate-Time-Ago (1.0.1)
+  - NSDate-TimeDifference (1.0.1)
+  - "NSString+Case (1.0.0)"
+  - "NSString+VTContainsSubstring (0.3)"
+  - NSString-Email (0.0.3)
+  - NSString-UrlEncode (2.1.0)
+  - Reachability (3.2)
+  - SDWebImage (4.4.1):
+    - SDWebImage/Core (= 4.4.1)
+  - SDWebImage/Core (4.4.1)
+  - SVProgressHUD (2.2.5)
+  - TOCropViewController (2.3.6)
+  - "UITextView+Placeholder (1.2.1)"
+
+DEPENDENCIES:
+  - AAPullToRefresh
+  - AFNetworking
+  - "AFNetworking+ImageActivityIndicator"
+  - GKActionSheetPicker
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - GoogleSignIn
+  - IQDropDownTextField
+  - IQKeyboardManager
+  - LDProgressView
+  - MBProgressHUD
+  - MGSwipeTableCell
+  - NJKWebViewProgress
+  - "NSDate+Helpers"
+  - NSDate-Escort
+  - NSDate-Time-Ago
+  - NSDate-TimeDifference
+  - "NSString+Case"
+  - "NSString+VTContainsSubstring"
+  - NSString-Email
+  - NSString-UrlEncode
+  - Reachability
+  - SDWebImage
+  - SVProgressHUD
+  - TOCropViewController
+  - "UITextView+Placeholder"
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AAPullToRefresh
+    - AFNetworking
+    - "AFNetworking+ImageActivityIndicator"
+    - GKActionSheetPicker
+    - GoogleMaps
+    - GooglePlacePicker
+    - GooglePlaces
+    - GoogleSignIn
+    - GoogleToolboxForMac
+    - GTMOAuth2
+    - GTMSessionFetcher
+    - IQDropDownTextField
+    - IQKeyboardManager
+    - LDProgressView
+    - MBProgressHUD
+    - MGSwipeTableCell
+    - NJKWebViewProgress
+    - "NSDate+Helpers"
+    - NSDate-Escort
+    - NSDate-Time-Ago
+    - NSDate-TimeDifference
+    - "NSString+Case"
+    - "NSString+VTContainsSubstring"
+    - NSString-Email
+    - NSString-UrlEncode
+    - Reachability
+    - SDWebImage
+    - SVProgressHUD
+    - TOCropViewController
+    - "UITextView+Placeholder"
+
+SPEC CHECKSUMS:
+  AAPullToRefresh: 9170fe976bad38329656fc852ee84f8095d3718e
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  "AFNetworking+ImageActivityIndicator": 2d1a65e082909f6c5f0e8af0ae810e1118e5f21c
+  GKActionSheetPicker: c44947e518cda1e68f5ebb17007ef1a9d7d741df
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlacePicker: 59ea44db173c58486ad6123993e81feefcbce9c3
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  GoogleSignIn: d9ef55b10f0aa401a5de2747f59b725e4b9732ac
+  GoogleToolboxForMac: 91c824d21e85b31c2aae9bb011c5027c9b4e738f
+  GTMOAuth2: c77fe325e4acd453837e72d91e3b5f13116857b2
+  GTMSessionFetcher: 5fa5b80fd20e439ef5f545fb2cb3ca6c6714caa2
+  IQDropDownTextField: 3d2e5728a2b83ff5dbb14cb9b497a80005124cbe
+  IQKeyboardManager: 29514134ef0334a6fa33cf4eee11c36c064baeaf
+  LDProgressView: f6afc7c30d2a9edf33001515f3189338567a32d2
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MGSwipeTableCell: fb20e983988bde2b8d0df29c2d9e1d8ffd10b74a
+  NJKWebViewProgress: f481fd424cb5ecc27eacae11b5397db92fba9a4d
+  "NSDate+Helpers": 0da797ac3e0d663ed9ee7387df4c500256cc3343
+  NSDate-Escort: c79db277a401c0ad219acd295ec17c7b4f61266f
+  NSDate-Time-Ago: e9de167d0659ebe465c273e833e7b582f061fc41
+  NSDate-TimeDifference: 5801d8263e2586acca6f7199ba25aa80ea9f8272
+  "NSString+Case": 3665c62c78c9578b64b4719caef6d784df2f46be
+  "NSString+VTContainsSubstring": 2feffb8e8516d14f6228c55250534dab16b60264
+  NSString-Email: 3c1ff0ace64d7ecc289ea2a5696170c853012252
+  NSString-UrlEncode: 92dcb01cac33ef036cda76baf0e4378b18779e47
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: 47e9b5b925cbce75946c23f0c42dd19464189af4
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  TOCropViewController: 6d972f2c609372312648f96758e13a7f689efbc0
+  "UITextView+Placeholder": 0c3efd97f37ea64bde7f34cc6e90fe02e87b3909
+
+PODFILE CHECKSUM: bba36d35b065a621c5bd497949a48b3eb89e031b
+
+COCOAPODS: 1.5.2
